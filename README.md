@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anklet1
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning HTML and CSS 
+- 🌱 I’m currently learning Software Engineering at ALX
 - 💞️ I’m looking to collaborate on real life projects 
 - 📫 How to reach me WhatsApp +233543521863 
 

@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anklet1
+- 👋 Hi, I’m Fekix Fleku
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning Software Engineering at ALX
-- 💞️ I’m looking to collaborate on real life projects 
+- 🌱 I’m a certified cloud Solutions Architect Associate 
+- 💞️ I'm passionate in building hands-on projects and through personal and internships 
 - 📫 How to reach me WhatsApp +233543521863 
 
 <!---

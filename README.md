@@ -9,7 +9,7 @@
 
 ### 👨🏽‍🎓 About Me
 
-I'm currently part of the **ALX Software Engineering Program**, where I’m sharpening my skills in full-stack development, DevOps, and systems programming.
+I'm currently part of the **ALX ProDev Software Engineering Program**, where I’m sharpening my skills in backend development, DevOps, and systems programming.
 
 💡 **Why I chose Software Engineering**  
 I believe technology is the *most powerful equalizer* in the world. I started this journey to solve meaningful problems, empower others through education, and build innovative tools for impact.
@@ -48,9 +48,9 @@ I want to collaborate on projects that involve:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixfleku&show_icons=true&theme=radical" alt="Felix's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anklet1&show_icons=true&theme=radical" alt="Felix's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixfleku&theme=radical" alt="Felix's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anklet1&theme=radical" alt="Felix's GitHub streak"/>
 </p>
 
 ---

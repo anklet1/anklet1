@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Fleku</h1>
-<h3 align="center">A passionate Software Engineering learner at ALX</h3>
+<h3 align="center">A passionate Software Engineering learner at ALX with Backend Specialization</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer+in+training;AI+Educator+%7C+Prompting+Enthusiast;Building+EdTech+Tools+with+Purpose" alt="Typing SVG" />

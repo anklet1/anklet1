@@ -50,7 +50,8 @@ I want to collaborate on projects that involve:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anklet1&show_icons=true&theme=radical" alt="Felix's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anklet1&theme=radical" alt="Felix's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixfleku&theme=tokyonight"/>
+
 </p>
 
 ---

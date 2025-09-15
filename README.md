@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering learner at ALX with Backend Specialization</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer;AI;Educator;Cloud Architect+%7C+Prompting+Enthusiast;Building+EdTech+Tools+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend%20Engineer;AI%20Enthusiast;Educator;Cloud%20Architect%20%7C%20Prompting%20Enthusiast;Building%20EdTech%20Tools%20with%20Purpose" alt="Typing SVG" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ I want to collaborate on projects that involve:
 - 🌍 [Portfolio Website](#) *(Coming soon)*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/felixfleku)  
 - 🐦 [Twitter/X](https://twitter.com/felixfleku)  
-- 📨 Reach me at: felixfleku@gmail.com
+- 📨 Reach me at: **felixfleku@gmail.com**
 
 ---
 

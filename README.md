@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felix Fleku</h1>
 <h3 align="center">A passionate Software Engineering learner at ALX with Backend Specialization</h3>
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anklet1&show_icons=true&theme=radical" alt="Felix's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anklet1&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer;AI;Educator;Cloud Architect+%7C+Prompting+Enthusiast;Building+EdTech+Tools+with+Purpose" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -55,8 +50,7 @@ I want to collaborate on projects that involve:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anklet1&show_icons=true&theme=radical" alt="Felix's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixfleku&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anklet1&theme=tokyonight"/>
 </p>
 
 ---
@@ -80,4 +74,3 @@ I want to collaborate on projects that involve:
 - Building MVPs for Educational Startups
 
 ---
-
